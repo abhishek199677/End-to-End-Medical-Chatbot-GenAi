@@ -130,4 +130,6 @@ open up localhost:
    - PINECONE_API_KEY
    - OPENAI_API_KEY
 
-    
+# 8. App Link:
+
+	http://localhost:8080/
