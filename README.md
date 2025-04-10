@@ -13,7 +13,7 @@ Project repo: https://github.com/abhishek199677/End-to-End-Medical-Chatbot-GenAi
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n medibot python=3.10 -y
+conda create -n medibot python=3.9 -y
 ```
 
 ```bash
@@ -94,7 +94,6 @@ open up localhost:
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 970547337635.dkr.ecr.ap-south-1.amazonaws.com/medicalchatbot
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
